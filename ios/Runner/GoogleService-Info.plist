@@ -9,7 +9,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.chatApp</string>
+	<string>com.abdurashid.chatApp</string>
 	<key>PROJECT_ID</key>
 	<string>chatap-e7a46</string>
 	<key>STORAGE_BUCKET</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:706764890368:ios:7a545b4cfbcd415b9c93e5</string>
+	<string>1:706764890368:ios:e60d8e3ba1a96f3a9c93e5</string>
 </dict>
 </plist>
